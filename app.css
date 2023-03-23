@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #202020;
+    color: #fd79a8;
+    font-family: sans-serif;
+}
+
+.pokemon {
+    display: inline-block;
+    text-align: center;
+    border: 1px #fd79a8 solid;
+    border-radius: 3px;
+    box-shadow: 5px #fd79a8;
+}
+.pokemon img {
+    display: block;
+    
+    
+
+}
