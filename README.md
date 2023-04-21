@@ -1,3 +1,3 @@
 # Poke Pokémon 
-Poke Pokémon 
-JS/ event listners/ Pokemon library API
+### Java Scrip , traning project.
+#### you click, they scream. 
